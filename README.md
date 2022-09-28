@@ -2,6 +2,7 @@
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - ULBRA/2024
 - 🚀 Buscando novas oportunidades e conexões profissionais
+- 🦾 Em busca de aprender habilidades, competências e disposto aprender novos métodos
 
 <div align="center">
   <a href="https://github.com/jhonpaiva">
