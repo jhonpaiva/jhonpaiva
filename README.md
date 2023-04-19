@@ -6,10 +6,10 @@
 
 <div align="center">
 <a href="https://github.com/jhonpaiva">
-  <img align="center" height=150em src="https://github-readme-stats.vercel.app/api?username=jhonpaiva&show_icons=true&theme=transparent" />
+  <img align="center" height=140em src="https://github-readme-stats.vercel.app/api?username=jhonpaiva&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/jhonpaiva">
-  <img align="center" height=149em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonpaiva&hide_progress=true&theme=transparent" />
+  <img align="center" height=140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonpaiva&hide_progress=true&theme=transparent" />
 </a>
 </div>
 
