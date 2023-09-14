@@ -12,8 +12,3 @@
   <img align="center" height=140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonpaiva&hide_progress=true&theme=transparent" />
 </a>
 </div>
-
-
-##
-
-![Snake animation](https://github.com/jhonpaiva/jhonpaiva/blob/output/github-contribution-grid-snake.svg)
