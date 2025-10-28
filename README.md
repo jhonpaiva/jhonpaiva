@@ -1,6 +1,6 @@
 ### Oi, eu sou o Jhon!
 
-- Cursando Análise e Desenvolvimento de Sistemas - ULBRA/2024
+- Estudante de programação
 - Buscando novas oportunidades e conexões profissionais
 - Em busca de aprender habilidades, competências e disposto aprender novos métodos
 
